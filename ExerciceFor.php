@@ -7,7 +7,7 @@ for ($i = 0; $i <= 10; $i++) {
     echo "</br>";
 }
 
-print("</br></br>-------------------------------------</br></br>");
+print("</br></br><hr></br></br>");
 print("exercie 2 </br></br>");
 
 $somme = 0;
@@ -16,7 +16,7 @@ for ($i = 0; $i <= 100; $i++) {
 }
 echo $somme;
 
-print("</br></br>-------------------------------------</br></br>");
+print("</br></br><hr></br></br>");
 print("exercie 3 </br></br>");
  
 
